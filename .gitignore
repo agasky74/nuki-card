@@ -1,0 +1,5 @@
+node_modules/
+.vite/
+*.tsbuildinfo
+dist/*.map
+.DS_Store
